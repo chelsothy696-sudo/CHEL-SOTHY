@@ -1,0 +1,6 @@
+{
+  "name": "ThyCut",
+  "description": "Mobile video editing studio with multi-clip timeline, trim and split, speed control, color filters, text overlays, audio mixing, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
